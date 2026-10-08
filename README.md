@@ -15,3 +15,4 @@ Fruits and vegetables can undergo internal ripening and spoilage before visible 
 - Build a dataset corresponding to different freshness stages.
 - Investigate machine-learning approaches for freshness classification.
 - Develop a system that can be adapted to different types of produce.
+---
