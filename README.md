@@ -16,3 +16,13 @@ Fruits and vegetables can undergo internal ripening and spoilage before visible 
 - Investigate machine-learning approaches for freshness classification.
 - Develop a system that can be adapted to different types of produce.
 ---
+
+##  Proposed Approach
+
+The current system uses:
+
+- **Arduino UNO** — sensor interfacing and data acquisition
+- **MQ-2 Gas Sensor** — gas-response measurement
+- **MQ-135 Gas Sensor** — gas-response measurement
+- **Fruit/Vegetable Samples** — experimental subjects
+- **Machine Learning** — future classification and pattern analysis
