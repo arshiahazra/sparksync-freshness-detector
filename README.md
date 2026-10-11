@@ -1,5 +1,5 @@
 # sparksync-freshness-detector
-o///o silly clg project: Research project exploring gas-sensor-based freshness detection and ML classification of fruits and vegetables.
+o///o silly clg project: Research project exploring gas-sensor-based freshness detection and ML classification of fruits and vegetables..
 
 ## Overview
 
