@@ -26,3 +26,26 @@ The current system uses:
 - **MQ-135 Gas Sensor** : gas-response measurement
 - **Fruit/Vegetable Samples** : experimental subjects
 - **Machine Learning** : future classification and pattern analysis
+
+  
+### Workflow
+
+```
+Fruit / Vegetable
+       ↓
+Gas Emission
+       ↓
+MQ-2 + MQ-135
+       ↓
+Arduino Data Acquisition
+       ↓
+Continuous Sensor Readings
+       ↓
+Dataset Generation
+       ↓
+Data Analysis
+       ↓
+Machine Learning
+       ↓
+Freshness Classification
+```
