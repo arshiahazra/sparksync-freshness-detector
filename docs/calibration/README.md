@@ -13,6 +13,6 @@ Each calibration experiment should document the sensor model, date, setup, warm-
 
 Raw readings should be preserved unchanged. Any processed data and calculated values should be stored separately.
 
-## Important Note
+### Important Note
 
 Calibration values depend on the physical sensor, circuit configuration, and experimental conditions. Values from earlier experiments should not be assumed valid for a different sensor or setup without verification..
