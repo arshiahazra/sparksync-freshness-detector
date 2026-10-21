@@ -51,6 +51,5 @@ void loop() {
   Serial.println(R0);
 
   contador++;
-
   delay(400);
 }
