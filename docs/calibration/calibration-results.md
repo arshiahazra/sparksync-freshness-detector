@@ -11,8 +11,8 @@ This document records the calibration values obtained for the gas sensors used i
 | Calibration method | MQUnifiedsensor library |
 | Clean-air ratio (`RatioMQ2CleanAir`) | 9.83 |
 | Load resistance (`RL`) configured in code | 5 kΩ |
-| Calibrated R₀ value | To be entered |
-| Calibration date | To be entered |
+| Calibrated R₀ value | 17.43 kΩ |
+| Calibration date | 08/07/2026 |
 
 ## 2. MQ-135 Sensor
 
@@ -22,13 +22,6 @@ This document records the calibration values obtained for the gas sensors used i
 | Microcontroller | Arduino UNO |
 | Calibration method | MQUnifiedsensor library |
 | Clean-air ratio | To be entered |
-| Load resistance (`RL`) configured in code | To be entered |
-| Calibrated R₀ value | To be entered |
-| Calibration date | To be entered |
-
-## Notes
-
-- Record the actual calibration values obtained during the experiments.
-- Record the sensor module configuration and calibration conditions where available.
-- Keep the original calibration sketches in the `code/` directory.
-- Do not assume that calibration values are interchangeable between individual sensors.
+| Load resistance (`RL`) configured in code | 10 kΩ |
+| Calibrated R₀ value | 132.54 kΩ |
+| Calibration date | 09/07/2026 |
