@@ -1,9 +1,26 @@
 ## Introduction:
-**SparkSync** is a research-oriented project team exploring the use of low-cost gas sensors and machine learning to assess the freshness of fruits and vegetables. The project uses an Arduino UNO with MQ-2 and MQ-135 gas sensors to collect sensor response data under different produce conditions.
+**SparkSync** is a research-oriented project team exploring the use of low-cost gas sensors and machine learning to assess the freshness of fruits and vegetables.
 
-The collected readings will be analyzed to investigate whether sensor patterns can help distinguish different freshness stages.
+The project uses an **Arduino UNO microcontroller** connected to two gas sensors, the **MQ-2 and MQ-135**, to investigate changes in sensor responses under different produce conditions. The collected measurements will form the basis of a dataset that can be analyzed to identify patterns associated with freshness, ripening, overripening, and spoilage.
 
-## Problem Statement:
-Freshness and spoilage in fruits and vegetables are important concerns in food quality management. Visual inspection alone may not always reveal changes occurring during the early stages of ripening or spoilage.
+The central idea is to investigate whether patterns in gas-sensor measurements can provide useful information about the condition of produce through an affordable and accessible sensing system.
 
-Existing freshness assessment techniques may require specialized equipment, controlled laboratory procedures, or additional resources. This project explores a low-cost, sensor-based approach that could make freshness assessment more accessible.
+The initial development phase focuses on gas sensing, sensor calibration, and experimental data collection. Machine learning will be investigated using the collected dataset. Camera-based analysis and IoT integration are potential future extensions rather than requirements of the initial prototype.
+
+
+### Project Details
+
+| Attribute | Description |
+|---|---|
+| Project Name | SparkSync |
+| Project Title | Smart Freshness Detection for Fruits and Vegetables |
+| Project Domain | Internet of Things (IoT), Machine Learning, Food Quality Monitoring |
+| Microcontroller | Arduino UNO |
+| Gas Sensors | MQ-2 and MQ-135 |
+| Sensor Programming | Arduino/C++ |
+| Data Analysis | Python (planned/under development) |
+| Data Storage Format | CSV |
+| Primary Objective | Investigate gas-sensor-based freshness-stage classification |
+| Development Approach | Experimental prototyping and data-driven analysis |
+
+---
