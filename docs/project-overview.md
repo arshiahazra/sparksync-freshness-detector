@@ -12,7 +12,7 @@ The initial development phase focuses on gas sensing, sensor calibration, and ex
 
 | Attribute | Description |
 |---|---|
-| Project Name | SparkSync |
+| Team Name | SparkSync |
 | Project Title | Smart Freshness Detection for Fruits and Vegetables |
 | Project Domain | Internet of Things (IoT), Machine Learning, Food Quality Monitoring |
 | Microcontroller | Arduino UNO |
