@@ -24,3 +24,32 @@ The initial development phase focuses on gas sensing, sensor calibration, and ex
 | Development Approach | Experimental prototyping and data-driven analysis |
 
 ---
+
+
+## Background and Motivation
+
+Fresh fruits and vegetables undergo physical, chemical, and biological changes as they ripen and eventually deteriorate. These changes can affect their aroma, texture, appearance, and overall quality.
+
+During ripening and spoilage, produce may release or change the concentrations of volatile compounds in its surrounding environment. Gas sensors respond to certain gases and vapours, making them potential tools for investigating these changes.
+
+However, sensor responses are not necessarily specific to one compound or one freshness stage. Temperature, humidity, sensor warm-up, sensor ageing, sample placement, and the surrounding environment can also influence measurements.
+
+This creates an opportunity to investigate whether patterns across multiple gas sensors, combined with systematic experimentation and machine learning, can help distinguish different freshness stages.
+
+SparkSync explores this opportunity using relatively inexpensive hardware and a repeatable experimental workflow.
+
+###Motivation
+
+The project is motivated by the following objectives:
+
+- Explore a potentially affordable alternative to freshness-assessment systems that require specialized equipment.
+
+- Investigate the relationship between gas-sensor responses and the condition of fruits and vegetables.
+
+- Study how multiple sensor measurements can be used for data-driven classification.
+
+- Develop a prototype that can be reproduced and improved using accessible hardware.
+
+- Establish a foundation for future integration with IoT monitoring or additional sensing methods.
+
+The project is experimental. Its usefulness will depend on the quality of the collected dataset, the repeatability of the experiments, and the performance of the evaluated models.
