@@ -38,7 +38,7 @@ This creates an opportunity to investigate whether patterns across multiple gas 
 
 SparkSync explores this opportunity using relatively inexpensive hardware and a repeatable experimental workflow.
 
-###Motivation
+### Motivation
 
 The project is motivated by the following objectives:
 
