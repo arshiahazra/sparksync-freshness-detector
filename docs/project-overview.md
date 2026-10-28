@@ -53,3 +53,18 @@ The project is motivated by the following objectives:
 - Establish a foundation for future integration with IoT monitoring or additional sensing methods.
 
 The project is experimental. Its usefulness will depend on the quality of the collected dataset, the repeatability of the experiments, and the performance of the evaluated models.
+
+
+## Problem Statement
+
+ Assessing the freshness of fruits and vegetables is important for quality management, storage, transportation, and consumption.
+
+Visual inspection is commonly used to assess produce, but visible changes do not always provide a complete picture of the changes occurring during ripening and deterioration. Freshness assessment can also be affected by subjective judgement and differences between produce varieties.
+
+Some instrumental assessment methods require specialized equipment, controlled laboratory environments, or additional resources that may not be readily available in low-cost applications.
+
+There is therefore a need to investigate accessible sensing approaches that can collect measurable information about produce condition.
+
+**SparkSync addresses this research problem by exploring whether measurements from low-cost MQ-2 and MQ-135 gas sensors, analyzed using machine learning, can help classify fruits and vegetables into defined freshness stages.**
+
+The project will evaluate this approach experimentally rather than assume that the sensors can reliably identify every stage of freshness.
