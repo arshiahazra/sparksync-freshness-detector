@@ -68,3 +68,14 @@ There is therefore a need to investigate accessible sensing approaches that can 
 **SparkSync addresses this research problem by exploring whether measurements from low-cost MQ-2 and MQ-135 gas sensors, analyzed using machine learning, can help classify fruits and vegetables into defined freshness stages.**
 
 The project will evaluate this approach experimentally rather than assume that the sensors can reliably identify every stage of freshness.
+
+
+## Proposed Solution
+
+SparkSync proposes an experimental system consisting of gas sensors, a microcontroller, a data collection workflow, and a machine learning analysis pipeline.
+
+The MQ-2 and MQ-135 sensors provide electrical responses to gases and vapours in their surroundings. The Arduino UNO is used to acquire sensor measurements.
+
+The recorded measurements can then be organized into a structured dataset. After suitable preprocessing and labeling, the dataset can be analyzed to investigate whether the sensor responses contain useful patterns for distinguishing freshness stages.
+
+The proposed development process has two main parts.
